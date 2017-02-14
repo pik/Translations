@@ -1,0 +1,3 @@
+[submodule "Gazdanov"]
+	path = Gazdanov
+	url = git@github.com:pik/Gazdanov.git
